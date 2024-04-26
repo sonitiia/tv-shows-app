@@ -1,3 +1,5 @@
+deploy: https://peaceful-duckanoo-05cdb5.netlify.app/tv-shows
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
